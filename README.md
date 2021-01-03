@@ -1,2 +1,2 @@
-# Snake-game-by-python
-# required libraries : pygame
+# Snake-game-by-python-with-pygame
+# 
